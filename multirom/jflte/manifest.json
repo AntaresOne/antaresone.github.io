@@ -1,0 +1,46 @@
+{
+	"status": "ok",
+	"date": "",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "http://antaresone.github.io/multirom/jflte/",
+						"version": "",
+						"type": "multirom",
+						"size": ,
+						"md5": ""
+					},
+					{
+						"url": "http://antaresone.github.io/multirom/jflte/",
+						"version": "",
+						"type": "recovery",
+						"size": ,
+						"md5": ""
+					},
+					{
+						"url": "http://antaresone.github.io/multirom/jflte/",
+						"version": "",
+						"type": "uninstaller",
+						"size": ,
+						"md5": ""
+					}
+				],
+			"changelogs":
+				[
+					{
+						"url": "http://antaresone.github.io/multirom/jflte/",
+						"name": "MultiROM"
+					},
+					{
+						"url": "http:/antaresone.github.io/multirom/jflte/",
+						"name": "Recovery"
+					}
+				],
+				}
+			}
+		]
+}
