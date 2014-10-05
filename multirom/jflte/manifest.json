@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2014-10-02",
+	"date": "2014-10-05",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -20,6 +20,38 @@
 						"type": "recovery",
 						"size": 10426368,
 						"md5": "44b616661ade48b70d9e017c0bed5dce"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://dl.dropboxusercontent.com/s/v9658wyjt6u28hj/Kernel-Alucard-V2.7.2a-%5B23-02%5D-%5B03-09%5D-AOSP-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"version": "Kernel for AOSP/CM ROMs",
+						"md5": "bbbee2a886f0e7ffd35efe2541411325",
+						"type": "kernel",
+						"size": 9821136
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://dl.dropboxusercontent.com/s/4yjreybgygaqd7j/Kernel-Alucard-V1.4h-%5B21-16%5D-%5B04-10%5D-AOSPV2-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"version": "Kernel for new CM builds",
+						"md5": "fbfe93b8d61300a70e5b3516c35ecfea",
+						"type": "kernel",
+						"size": 10001804
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://dl.dropboxusercontent.com/s/1vr3y3k6w0g761l/Kernel-Alucard-V2.2a-%5B21-17%5D-%5B05-09%5D-GE-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"version": "Kernel for Google Edition",
+						"md5": "7c5726c9daab62f0e3cfa8ceaf4b29a0",
+						"type": "kernel",
+						"size": 8872340
+					},
+					{
+						"extra": {"releases":["4.4.2"]},
+						"url": "https://dl.dropboxusercontent.com/s/vuwcg0838twcg21/Kernel-Alucard-V2.1a-%5B21-09%5D-%5B04-09%5D-TW-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"version": "Kernel for TouchWiz",
+						"md5": "e5d4270d3a620511f824a92e96487eaf",
+						"type": "kernel",
+						"size": 9403751
 					},
 					{
 						"url": "http://antaresone.github.io/multirom/jflte/multirom_uninstaller.zip",
