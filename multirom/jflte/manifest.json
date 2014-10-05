@@ -64,11 +64,11 @@
 			"changelogs":
 				[
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/changelogs/changelog_multirom.txt",
+						"url": "http://antaresone.github.io/multirom/jflte/changelogs/multirom_changelog.txt",
 						"name": "MultiROM"
 					},
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/changelogs/changelog_recovery.txt",
+						"url": "http://antaresone.github.io/multirom/jflte/changelogs/twrp_changelog.txt",
 						"name": "Recovery"
 					}
 				],
