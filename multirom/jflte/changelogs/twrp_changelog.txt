@@ -1,3 +1,0 @@
-30/09/2014: Removed "share kernel" option, ROM installation to MicroSD card supported
-
-2/10/2014: Add support for MultiROM Manager app
