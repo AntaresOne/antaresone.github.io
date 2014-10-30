@@ -6,3 +6,6 @@ Add support for MultiROM Manager app
 
 25/10/2014
 Full MultiROM Manager support
+
+30/10/2014
+Update to v2.8.1.0
