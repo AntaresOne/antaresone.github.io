@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2014-10-30",
+	"date": "2014-11-04",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -15,16 +15,16 @@
 						"md5": "f425cc1010f1f8b5dfe6f7b194645c83"
 					},
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/TWRP_multirom_jflte_20141030-00.img",
-						"version": "mrom20141030-00",
+						"url": "http://antaresone.github.io/multirom/jflte/TWRP_multirom_jflte_20141104-00.img",
+						"version": "mrom20141104-00",
 						"type": "recovery",
 						"size": 10207232,
-						"md5": "2ceaf1b71b03c2cc8bebe0dba35e6668"
+						"md5": "deaa47adf4bc6e5762a85a20bd7962ad"
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
 						"url": "https://dl.dropboxusercontent.com/s/v9658wyjt6u28hj/Kernel-Alucard-V2.7.2a-%5B23-02%5D-%5B03-09%5D-AOSP-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard - AOSP/CM ROMs v2.7.2a",
+						"version": "Alucard v2.7.2a - AOSP/CM ROMs",
 						"md5": "bbbee2a886f0e7ffd35efe2541411325",
 						"type": "kernel",
 						"size": 9821136
@@ -32,7 +32,7 @@
 					{
 						"extra": {"releases":["4.4.4"]},
 						"url": "https://dl.dropboxusercontent.com/s/u1a27ar0kstrjiy/Kernel-Alucard-V1.4m-%5B23-53%5D-%5B18-10%5D-AOSPV2-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard - new CM builds v1.4m",
+						"version": "Alucard v1.4m - new CM11 builds",
 						"md5": "f544c0255b1fa4a78ef2e53be69b45b2",
 						"type": "kernel",
 						"size": 11139410
@@ -40,7 +40,7 @@
 					{
 						"extra": {"releases":["4.4.4"]},
 						"url": "https://dl.dropboxusercontent.com/s/1vr3y3k6w0g761l/Kernel-Alucard-V2.2a-%5B21-17%5D-%5B05-09%5D-GE-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard - Google Edition ROM v2.2a",
+						"version": "Alucard v2.2a - Google Edition ROM",
 						"md5": "7c5726c9daab62f0e3cfa8ceaf4b29a0",
 						"type": "kernel",
 						"size": 8872340
@@ -48,7 +48,7 @@
 										{
 						"extra": {"releases":["4.4.2"]},
 						"url": "https://dl.dropboxusercontent.com/s/w9615rvjge4kyle/Kernel-Alucard-V2.3a-%5B23-16%5D-%5B22-10%5D-TW-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard - TouchWiz ROMs v2.3a BETA",
+						"version": "Alucard v2.3a BETA - TouchWiz ROMs",
 						"md5": "1262b2ec88a4df1affa863961bbe3af5",
 						"type": "kernel",
 						"size": 11261058
@@ -56,10 +56,34 @@
 					{
 						"extra": {"releases":["4.4.2"]},
 						"url": "https://dl.dropboxusercontent.com/s/vuwcg0838twcg21/Kernel-Alucard-V2.1a-%5B21-09%5D-%5B04-09%5D-TW-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard - TouchWiz ROMs v2.1a",
+						"version": "Alucard v2.1a - TouchWiz ROMs",
 						"md5": "e5d4270d3a620511f824a92e96487eaf",
 						"type": "kernel",
 						"size": 9403751
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=2998116&d=1415061488",
+						"version": "Googy-Max3 v1.1.9 - new CM11 builds",
+						"md5": "e7dac502907e9f5b0603746d67353e60",
+						"type": "kernel",
+						"size": 6977146
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=2998103&d=1415061215",
+						"version": "Googy-Max3 v1.1.9 - Google Edition ROM",
+						"md5": "b02fbd0935335d26cfad7711fa12f759",
+						"type": "kernel",
+						"size": 9812337
+					},
+					{
+						"extra": {"releases":["4.4.2"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=2998104&d=1415061215",
+						"version": "Googy-Max3 v1.1.9 - TouchWiz ROMs",
+						"md5": "f24f2e3d475ea98e20652ce772886821",
+						"type": "kernel",
+						"size": 10598215
 					},
 					{
 						"url": "http://antaresone.github.io/multirom/jflte/multirom_uninstaller.zip",
