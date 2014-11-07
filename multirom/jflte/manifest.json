@@ -23,7 +23,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://dl.dropboxusercontent.com/s/v9658wyjt6u28hj/Kernel-Alucard-V2.7.2a-%5B23-02%5D-%5B03-09%5D-AOSP-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"url": "http://fs1.d-h.st/download/00147/Upw/Kernel-Alucard-V2.7.2a-%5B23-02%5D-%5B03-09%5D-AOSP-EUR-KK4.4-SGIV-PWR-CORE.zip",
 						"version": "Alucard v2.7.2a - AOSP/CM ROMs",
 						"md5": "bbbee2a886f0e7ffd35efe2541411325",
 						"type": "kernel",
@@ -31,11 +31,19 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://dl.dropboxusercontent.com/s/u1a27ar0kstrjiy/Kernel-Alucard-V1.4m-%5B23-53%5D-%5B18-10%5D-AOSPV2-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard v1.4m - new CM11 builds",
-						"md5": "f544c0255b1fa4a78ef2e53be69b45b2",
+						"url": "http://fs1.d-h.st/download/00147/ts1/Kernel-Alucard-V1.4oc-%5B23-28%5D-%5B02-11%5D-AOSPV2-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"version": "Alucard v1.4oc - new CM11 builds",
+						"md5": "1bd5cfcaf4c7e1970bfc504f0fd58a0f",
 						"type": "kernel",
-						"size": 11139410
+						"size": 11223468
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://fs1.d-h.st/download/00147/Otp/Kernel-Alucard-V2.4a-%5B00-01%5D-%5B03-11%5D-GE-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"version": "Alucard v2.4a BETA - Google Edition ROM",
+						"md5": "1cde545ee25fd5c2bf4008cf6cefd353",
+						"type": "kernel",
+						"size": 10962124
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
@@ -45,21 +53,13 @@
 						"type": "kernel",
 						"size": 8872340
 					},
-										{
-						"extra": {"releases":["4.4.2"]},
-						"url": "https://dl.dropboxusercontent.com/s/w9615rvjge4kyle/Kernel-Alucard-V2.3a-%5B23-16%5D-%5B22-10%5D-TW-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard v2.3a BETA - TouchWiz ROMs",
-						"md5": "1262b2ec88a4df1affa863961bbe3af5",
-						"type": "kernel",
-						"size": 11261058
-					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "https://dl.dropboxusercontent.com/s/vuwcg0838twcg21/Kernel-Alucard-V2.1a-%5B21-09%5D-%5B04-09%5D-TW-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard v2.1a - TouchWiz ROMs",
-						"md5": "e5d4270d3a620511f824a92e96487eaf",
+						"url": "http://fs1.d-h.st/download/00147/aK0/Kernel-Alucard-V2.3f-%5B23-53%5D-%5B02-11%5D-TW-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"version": "Alucard v2.3f - TouchWiz ROMs",
+						"md5": "7a62a5412bf59dc7691ae8067111a99f",
 						"type": "kernel",
-						"size": 9403751
+						"size": 11253167
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
