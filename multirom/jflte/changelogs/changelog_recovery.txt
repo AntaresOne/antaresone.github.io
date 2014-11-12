@@ -12,3 +12,6 @@ Update to v2.8.1.0
 
 4/11/2014
 Add back "Share kernel" option
+
+12/11/2014
+Build image without event logging

@@ -19,3 +19,6 @@ Device source - add MicroSD card to init devices, fixed device autoboot in recov
 25/10/2014:
 MultiROM - Minor updates, full MultiROM Manager support (this fixes the ghost update)
 Uninstaller ZIP - Add support for other jf variants
+
+12/11/2014:
+Device source - disable TWRP event logging
