@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2014-11-12",
+	"date": "2014-11-25",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -8,18 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/multirom-20141025-v29-UNOFFICIAL-jflte.zip",
-						"version": "29",
+						"url": "http://antaresone.github.io/multirom/jflte/multirom-20141125-v30-UNOFFICIAL-jflte.zip",
+						"version": "30",
 						"type": "multirom",
-						"size": 3587892,
-						"md5": "f425cc1010f1f8b5dfe6f7b194645c83"
+						"size": 3576273,
+						"md5": "0d6da627783d027462b67645dc901cf0"
 					},
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/TWRP_multirom_jflte_20141112-00.img",
-						"version": "mrom20141112-00",
+						"url": "http://antaresone.github.io/multirom/jflte/TWRP_multirom_jflte_20141125-00.img",
+						"version": "mrom20141125-00",
 						"type": "recovery",
-						"size": 10207232,
-						"md5": "4f8e12630c5443e2c9bc5ed52fe67860"
+						"size": 10213376,
+						"md5": "c95497548703c515e8e30ed2818b2f4a"
 					},
 					{
 						"extra": {"releases":["4.4.4"]},

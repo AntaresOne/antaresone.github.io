@@ -15,3 +15,6 @@ Add back "Share kernel" option
 
 12/11/2014
 Build image without event logging
+
+25/11/2014
+Add partial support for block_image_update in secondary ROMs ZIPs, copy ZIP to /tmp only when we know we need to change it
