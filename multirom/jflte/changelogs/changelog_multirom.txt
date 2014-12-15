@@ -26,3 +26,6 @@ Device source - disable TWRP event logging
 25/11/2014:
 Device source - general tree update
 MultiROM - Assume fstab version 2 by default, fix klog saving and text size on emergency reboot screen, write fstab for fw_mounter as version 2
+
+15/12/2014:
+Restored installation on other jf variants

@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2014-11-26",
+	"date": "2014-12-15",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -8,14 +8,14 @@
 			{"files":
 				[
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/multirom-20141125-v30-UNOFFICIAL-jflte.zip",
-						"version": "30",
+						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom-20141215-v30b-UNOFFICIAL-jflte.zip?raw=true",
+						"version": "30b",
 						"type": "multirom",
-						"size": 3576273,
-						"md5": "0d6da627783d027462b67645dc901cf0"
+						"size": 3588009,
+						"md5": "0d9265ac3ce25873b875311373f80ca0"
 					},
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/TWRP_multirom_jflte_20141126-00.img",
+						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/TWRP_multirom_jflte_20141126-00.img?raw=true",
 						"version": "mrom20141126-00",
 						"type": "recovery",
 						"size": 10207232,
@@ -23,31 +23,31 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "http://fs1.d-h.st/download/00147/Upw/Kernel-Alucard-V2.7.2a-%5B23-02%5D-%5B03-09%5D-AOSP-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard v2.7.2a - AOSP/CM ROMs up to 6 August",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4/Kernel-Alucard-V2.7.2a.zip?raw=true",
+						"version": "Alucard v2.7.2a - AOSP/CM ROMs up to 6 August 2014",
 						"md5": "bbbee2a886f0e7ffd35efe2541411325",
 						"type": "kernel",
 						"size": 9821136
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "http://fs1.d-h.st/download/00148/juZ/Kernel-Alucard-V1.4pb-%5B20-18%5D-%5B11-11%5D-AOSPV2-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard v1.4pb - AOSP/CM ROMs after 6 August",
-						"md5": "403d0069fc2041605cedad0422b29cb0",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4-v2/Kernel-Alucard-V1.4r.zip?raw=true",
+						"version": "Alucard v1.4r - AOSP/CM ROMs after 6 August 2014",
+						"md5": "78dedffd8d70bab721b8011aabed27a7",
 						"type": "kernel",
-						"size": 11062529
+						"size": 11057291
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "http://fs1.d-h.st/download/00148/pUk/Kernel-Alucard-V2.4d-%5B21-05%5D-%5B11-11%5D-GE-EUR-KK4.4-SGIV-PWR-CORE.zip",
-						"version": "Alucard v2.4d - Google Edition ROM",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/GE-4.4/Kernel-Alucard-V2.4d.zip?raw=true",
+						"version": "Alucard v2.4d - Google Edition 4.4 ROM",
 						"md5": "40433965298c861fd45ee413a06caae2",
 						"type": "kernel",
 						"size": 10216578
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "http://fs1.d-h.st/download/00148/28c/Kernel-Alucard-V2.3ga-%5B20-41%5D-%5B11-11%5D-TW-EUR-KK4.4-SGIV-PWR-CORE.zip",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/TW-4.4/Kernel-Alucard-V2.3ga.zip?raw=true",
 						"version": "Alucard v2.3ga - TouchWiz ROMs",
 						"md5": "226b2924cd5be721a8b859a3d74c3863",
 						"type": "kernel",
@@ -55,30 +55,38 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=2998116&d=1415061488",
-						"version": "Googy-Max3 v1.1.9 - new CM11 builds",
-						"md5": "e7dac502907e9f5b0603746d67353e60",
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3041237&d=1417360993",
+						"version": "Googy-Max3 v1.2.2 - AOSP/CM ROMs after 6 August 2014",
+						"md5": "b274b731dd91f393309c201311819bae",
 						"type": "kernel",
-						"size": 6977146
+						"size": 6977058
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=2998103&d=1415061215",
-						"version": "Googy-Max3 v1.1.9 - Google Edition ROM",
-						"md5": "b02fbd0935335d26cfad7711fa12f759",
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3041231&d=1417360837",
+						"version": "Googy-Max3 v1.2.2 - Google Edition 4.4 ROM",
+						"md5": "482cb114b875c3e73df1c25e6bab1e31",
 						"type": "kernel",
-						"size": 9812337
+						"size": 9808439
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=2998104&d=1415061215",
-						"version": "Googy-Max3 v1.1.9 - TouchWiz ROMs",
-						"md5": "f24f2e3d475ea98e20652ce772886821",
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3041232&d=1417360837",
+						"version": "Googy-Max3 v1.2.2 - TouchWiz ROMs",
+						"md5": "91e2377d6414c32aab3eda2ca88aaa4c",
 						"type": "kernel",
-						"size": 10598215
+						"size": 10592396
 					},
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/multirom_uninstaller.zip",
+						"extra": {"releases":["4.4.2"]},
+						"url": "http://www.imperiumrom.com/S4/4.4.2/OTA/kernel/ImperiumKernel_v1.5.zip",
+						"version": "Imperium v1.5 - TouchWiz ROMs",
+						"md5": "91e2377d6414c32aab3eda2ca88aaa4c",
+						"type": "kernel",
+						"size": 10592396
+					},
+					{
+						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom_uninstaller.zip?raw=true",
 						"version": "",
 						"type": "uninstaller",
 						"size": 1575086,
