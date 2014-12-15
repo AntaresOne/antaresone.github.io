@@ -81,9 +81,9 @@
 						"extra": {"releases":["4.4.2"]},
 						"url": "http://www.imperiumrom.com/S4/4.4.2/OTA/kernel/ImperiumKernel_v1.5.zip",
 						"version": "Imperium v1.5 - TouchWiz ROMs",
-						"md5": "91e2377d6414c32aab3eda2ca88aaa4c",
+						"md5": "d9dc4e124a1798da7da9186d4a386ea5",
 						"type": "kernel",
-						"size": 10592396
+						"size": 14664104
 					},
 					{
 						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom_uninstaller.zip?raw=true",
