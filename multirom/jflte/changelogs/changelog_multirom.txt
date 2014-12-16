@@ -29,3 +29,7 @@ MultiROM - Assume fstab version 2 by default, fix klog saving and text size on e
 
 15/12/2014:
 Restored installation on other jf variants
+
+16/12/2014:
+Fixed ghost update found in previous build
+Better support for Lollipop ROMs

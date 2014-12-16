@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2014-12-15",
+	"date": "2014-12-16",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -8,34 +8,42 @@
 			{"files":
 				[
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom-20141215-v30b-UNOFFICIAL-jflte.zip?raw=true",
-						"version": "30b",
+						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom-20141216-v30c-UNOFFICIAL-jflte.zip?raw=true",
+						"version": "30c",
 						"type": "multirom",
-						"size": 3588009,
-						"md5": "0d9265ac3ce25873b875311373f80ca0"
+						"size": 3588014,
+						"md5": "fb67d6c36d0017f43a60e47fcf91c012"
 					},
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/TWRP_multirom_jflte_20141126-00.img?raw=true",
-						"version": "mrom20141126-00",
+						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/TWRP_multirom_jflte_20141216-00.img?raw=true",
+						"version": "mrom20141216-00",
 						"type": "recovery",
-						"size": 10207232,
-						"md5": "4472a2cd6612ec66c1d2c57bce2b7095"
+						"size": 10409984,
+						"md5": "a7d5b879d419107767e0ff17d9e7d1e6"
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4/Kernel-Alucard-V2.7.2a.zip?raw=true",
-						"version": "Alucard v2.7.2a - AOSP/CM ROMs up to 6 August 2014",
-						"md5": "bbbee2a886f0e7ffd35efe2541411325",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/CM-5.0/Kernel-Alucard-V1.0f.zip?raw=true",
+						"version": "Alucard v1.0f - CM12 ROM",
+						"md5": "8b9b3ba00030f1817accf6af88a950ce",
 						"type": "kernel",
-						"size": 9821136
+						"size": 11228431
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
 						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4-v2/Kernel-Alucard-V1.4r.zip?raw=true",
-						"version": "Alucard v1.4r - AOSP/CM ROMs after 6 August 2014",
+						"version": "Alucard v1.4r - AOSP/CM11 ROMs after 6 Aug",
 						"md5": "78dedffd8d70bab721b8011aabed27a7",
 						"type": "kernel",
 						"size": 11057291
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4/Kernel-Alucard-V2.7.2a.zip?raw=true",
+						"version": "Alucard v2.7.2a - AOSP/CM11 till 6 August",
+						"md5": "bbbee2a886f0e7ffd35efe2541411325",
+						"type": "kernel",
+						"size": 9821136
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
@@ -56,26 +64,34 @@
 					{
 						"extra": {"releases":["4.4.4"]},
 						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3041237&d=1417360993",
-						"version": "Googy-Max3 v1.2.2 - AOSP/CM ROMs after 6 August 2014",
+						"version": "Googy-Max3 v1.2.2 - AOSP/CM ROMs after 6 Aug",
 						"md5": "b274b731dd91f393309c201311819bae",
 						"type": "kernel",
 						"size": 6977058
 					},
 					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3041231&d=1417360837",
-						"version": "Googy-Max3 v1.2.2 - Google Edition 4.4 ROM",
-						"md5": "482cb114b875c3e73df1c25e6bab1e31",
+						"extra": {"releases":["5.0"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3066181&d=1418692220",
+						"version": "Googy-Max3 v1.2.3c - Google Edition 5.0 ROM",
+						"md5": "3166fa67d03cd9a3f78c73ca0cde81d9",
 						"type": "kernel",
-						"size": 9808439
+						"size": 10275309
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3062525&d=1418494394",
+						"version": "Googy-Max3 v1.2.3 - Google Edition 4.4 ROM",
+						"md5": "121b7d47a19db96a1835e0669ef13ef6",
+						"type": "kernel",
+						"size": 9807436
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3041232&d=1417360837",
-						"version": "Googy-Max3 v1.2.2 - TouchWiz ROMs",
-						"md5": "91e2377d6414c32aab3eda2ca88aaa4c",
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3062523&d=1418494276",
+						"version": "Googy-Max3 v1.2.3 - TouchWiz ROMs",
+						"md5": "69a3c1e89d61cef2ddf9bc6954687dd1",
 						"type": "kernel",
-						"size": 10592396
+						"size": 10592641
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
