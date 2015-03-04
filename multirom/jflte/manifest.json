@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2014-12-16",
+	"date": "2015-03-04",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -8,14 +8,14 @@
 			{"files":
 				[
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom-20141216-v30c-UNOFFICIAL-jflte.zip?raw=true",
+						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom-20141216-v30c-UNOFFICIAL-jflte.zip",
 						"version": "30c",
 						"type": "multirom",
 						"size": 3588014,
 						"md5": "fb67d6c36d0017f43a60e47fcf91c012"
 					},
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/TWRP_multirom_jflte_20141216-00.img?raw=true",
+						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/TWRP_multirom_jflte_20141216-00.img",
 						"version": "mrom20141216-00",
 						"type": "recovery",
 						"size": 10409984,
@@ -23,7 +23,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/CM-5.0/Kernel-Alucard-V1.0f.zip?raw=true",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/CM-5.0/Kernel-Alucard-V1.0f.zip",
 						"version": "Alucard v1.0f - CM12 ROM",
 						"md5": "8b9b3ba00030f1817accf6af88a950ce",
 						"type": "kernel",
@@ -31,7 +31,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4-v2/Kernel-Alucard-V1.4r.zip?raw=true",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4-v2/Kernel-Alucard-V1.4r.zip",
 						"version": "Alucard v1.4r - AOSP/CM11 ROMs after 6 Aug",
 						"md5": "78dedffd8d70bab721b8011aabed27a7",
 						"type": "kernel",
@@ -39,7 +39,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4/Kernel-Alucard-V2.7.2a.zip?raw=true",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4/Kernel-Alucard-V2.7.2a.zip",
 						"version": "Alucard v2.7.2a - AOSP/CM11 till 6 August",
 						"md5": "bbbee2a886f0e7ffd35efe2541411325",
 						"type": "kernel",
@@ -47,7 +47,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/GE-4.4/Kernel-Alucard-V2.4d.zip?raw=true",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/GE-4.4/Kernel-Alucard-V2.4d.zip",
 						"version": "Alucard v2.4d - Google Edition 4.4 ROM",
 						"md5": "40433965298c861fd45ee413a06caae2",
 						"type": "kernel",
@@ -55,7 +55,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/TW-4.4/Kernel-Alucard-V2.3ga.zip?raw=true",
+						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/TW-4.4/Kernel-Alucard-V2.3ga.zip",
 						"version": "Alucard v2.3ga - TouchWiz ROMs",
 						"md5": "226b2924cd5be721a8b859a3d74c3863",
 						"type": "kernel",
@@ -102,7 +102,7 @@
 						"size": 14664104
 					},
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom_uninstaller.zip?raw=true",
+						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
 						"size": 1575086,
