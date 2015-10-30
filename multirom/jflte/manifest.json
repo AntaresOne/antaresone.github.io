@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2015-03-04",
+	"date": "2015-10-29",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -8,105 +8,185 @@
 			{"files":
 				[
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom-20141216-v30c-UNOFFICIAL-jflte.zip",
-						"version": "30c",
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/multirom/jflte/multirom-20151029-v32b-UNOFFICIAL-jflte.zip",
+						"version": "32b",
 						"type": "multirom",
-						"size": 3588014,
-						"md5": "fb67d6c36d0017f43a60e47fcf91c012"
+						"size": 3997652,
+						"md5": "56b309d5d6c27a4cfb33fa0ebb153043"
 					},
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/TWRP_multirom_jflte_20141216-00.img",
-						"version": "mrom20141216-00",
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/multirom/jflte/TWRP_multirom_jflte_20151029-00.img",
+						"version": "mrom20151029-00",
 						"type": "recovery",
-						"size": 10409984,
-						"md5": "a7d5b879d419107767e0ff17d9e7d1e6"
+						"size": 8419328,
+						"md5": "3fd1fd6149a218714f48c6951dd41718"
 					},
 					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/CM-5.0/Kernel-Alucard-V1.0f.zip",
-						"version": "Alucard v1.0f - CM12 ROM",
-						"md5": "8b9b3ba00030f1817accf6af88a950ce",
+						"extra": {"releases":["5.1.x"]},
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V1.3ba-NEW5.1.zip",
+						"version": "Alucard CM12.1-based",
+						"md5": "8a0958a11af9ebbdc1dc46c1f5b311b7",
 						"type": "kernel",
-						"size": 11228431
+						"size": 12515496
 					},
 					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4-v2/Kernel-Alucard-V1.4r.zip",
-						"version": "Alucard v1.4r - AOSP/CM11 ROMs after 6 Aug",
+						"extra": {"releases":["5.0.x"]},
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V1.1a-5.0.zip",
+						"version": "Alucard CM12-based",
+						"md5": "26da9b6909f9f1ad994512b1b41d8fab",
+						"type": "kernel",
+						"size": 11766633
+					},
+					{
+						"extra": {"releases":["5.0.x"]},
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V1.1a-GE5.0.zip",
+						"version": "Alucard GPE 5.0",
+						"md5": "d63a46e4661607f4249c12a2c9d59c4f",
+						"type": "kernel",
+						"size": 10748526
+					},
+					{
+						"extra": {"releases":["4.4.x"]},
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V1.4r-NEW4.4.zip",
+						"version": "Alucard CM11-based after 8/6/2014",
 						"md5": "78dedffd8d70bab721b8011aabed27a7",
 						"type": "kernel",
 						"size": 11057291
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4/Kernel-Alucard-V2.7.2a.zip",
-						"version": "Alucard v2.7.2a - AOSP/CM11 till 6 August",
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V2.7.2a-4.4.zip",
+						"version": "Alucard CM11-based up to 8/5/2014",
 						"md5": "bbbee2a886f0e7ffd35efe2541411325",
 						"type": "kernel",
 						"size": 9821136
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/GE-4.4/Kernel-Alucard-V2.4d.zip",
-						"version": "Alucard v2.4d - Google Edition 4.4 ROM",
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V2.4d-GE4.4.zip",
+						"version": "Alucard GPE 4.4",
 						"md5": "40433965298c861fd45ee413a06caae2",
 						"type": "kernel",
 						"size": 10216578
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/TW-4.4/Kernel-Alucard-V2.3ga.zip",
-						"version": "Alucard v2.3ga - TouchWiz ROMs",
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V2.3ga-TW4.4.zip",
+						"version": "Alucard TouchWiz 4.4.2",
 						"md5": "226b2924cd5be721a8b859a3d74c3863",
 						"type": "kernel",
 						"size": 11089388
 					},
 					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3041237&d=1417360993",
-						"version": "Googy-Max3 v1.2.2 - AOSP/CM ROMs after 6 Aug",
-						"md5": "b274b731dd91f393309c201311819bae",
+						"extra": {"releases":["5.0.x"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3189168&d=1425226064",
+						"version": "Googy-Max3 GPE 5.0",
+						"md5": "e6099ac9c691d6d52dbddac73ad186a3",
 						"type": "kernel",
-						"size": 6977058
+						"size": 10999783
 					},
 					{
-						"extra": {"releases":["5.0"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3066181&d=1418692220",
-						"version": "Googy-Max3 v1.2.3c - Google Edition 5.0 ROM",
-						"md5": "3166fa67d03cd9a3f78c73ca0cde81d9",
+						"extra": {"releases":["4.4.x"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3147810&d=1422967649",
+						"version": "Googy-Max3 GPE 4.4",
+						"md5": "2e427f69831a8d723c665fee9cc3a888",
 						"type": "kernel",
-						"size": 10275309
+						"size": 10546806
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3062525&d=1418494394",
-						"version": "Googy-Max3 v1.2.3 - Google Edition 4.4 ROM",
-						"md5": "121b7d47a19db96a1835e0669ef13ef6",
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3189174&d=1425226332",
+						"version": "Googy-Max3 TouchWiz 4.4.4",
+						"md5": "8062530bdd17647b358851e41eae62d8",
 						"type": "kernel",
-						"size": 9807436
+						"size": 11329520
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3062523&d=1418494276",
-						"version": "Googy-Max3 v1.2.3 - TouchWiz ROMs",
-						"md5": "69a3c1e89d61cef2ddf9bc6954687dd1",
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3189173&d=1425226203",
+						"version": "Googy-Max3 TouchWiz 4.4.2",
+						"md5": "8fcf79eb073f61bc4c10911793cf79b3",
 						"type": "kernel",
-						"size": 10592641
+						"size": 11348602
+					},
+					{
+						"extra": {"releases":["5.1.x"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3301679&d=1431027573",
+						"version": "Hulk CM12.1-based",
+						"md5": "505417682a97d2805eafcfea0e1a0b01",
+						"type": "kernel",
+						"size": 8415203
+					},
+					{
+						"extra": {"releases":["5.1.x"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3301677&d=1431027528",
+						"version": "Hulk CM12-based",
+						"md5": "36f46dab5e9b7a9273d5dad084b1a98f",
+						"type": "kernel",
+						"size": 8498124
+					},
+					{
+						"extra": {"releases":["5.1.x"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3301675&d=1431027479",
+						"version": "Hulk GPE 5.0",
+						"md5": "920854afe21dd7af07c496b8351149ae",
+						"type": "kernel",
+						"size": 9902418
+					},
+					{
+						"extra": {"releases":["5.0.1"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3301669&d=1431027171",
+						"version": "Hulk TouchWiz 5.0",
+						"md5": "f556562ba7cd0b0fa2702e02d746e239",
+						"type": "kernel",
+						"size": 11677559
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3282686&d=1430049906",
+						"version": "Hulk TouchWiz 4.4.4",
+						"md5": "b44b177cb0fa44e201fe9b2c32037e00",
+						"type": "kernel",
+						"size": 11301528
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "http://www.imperiumrom.com/S4/4.4.2/OTA/kernel/ImperiumKernel_v1.5.zip",
-						"version": "Imperium v1.5 - TouchWiz ROMs",
-						"md5": "d9dc4e124a1798da7da9186d4a386ea5",
+						"url": "http://forum.xda-developers.com/attachment.php?attachmentid=3282683&d=1430049799",
+						"version": "Hulk TouchWiz 4.4.2",
+						"md5": "8fd78dd571f767efb6d45827f3ce0dcb",
 						"type": "kernel",
-						"size": 14664104
+						"size": 11321748
 					},
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom_uninstaller.zip",
+						"extra": {"releases":["5.0.1"]},
+						"url": "http://www.imperiumrom.com/S4/4.4.2/OTA/kernel/ImperiumKernel_v1.14_TW_4.4.4.zip",
+						"version": "Imperium TouchWiz 5.0",
+						"md5": "82595b8bdc7902677d7d20535b7aa3ab",
+						"type": "kernel",
+						"size": 12803438
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://www.imperiumrom.com/S4/4.4.2/OTA/kernel/ImperiumKernel_v1.14_TW_4.4.4.zip",
+						"version": "Imperium TouchWiz 4.4.4",
+						"md5": "d0d296f2983ed3197a910d0d4a3ce214",
+						"type": "kernel",
+						"size": 15864878
+					},
+					{
+						"extra": {"releases":["4.4.2"]},
+						"url": "http://www.imperiumrom.com/S4/4.4.2/OTA/kernel/ImperiumKernel_v1.14.zip",
+						"version": "Imperium TouchWiz 4.4.2",
+						"md5": "11fc4fc897c647bd5b02725786cc9ade",
+						"type": "kernel",
+						"size": 15773124
+					},
+					{
+						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/multirom/jflte/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
-						"size": 1575086,
-						"md5": "c65412c7b4bf7ee6f1afb51bbf68f462"
+						"size": 1633297,
+						"md5": "7030159e1fd11ed1f529e9d10835c315"
 					}
 				],
 			"changelogs":
